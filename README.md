@@ -1,0 +1,1 @@
+# aws_vpc_ssm_public_subnet_rds_postgres_terraform
